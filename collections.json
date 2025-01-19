@@ -1,0 +1,23 @@
+[
+    {
+        "image": "https://placehold.co/600x337",
+        "icon": "https://placehold.co/100x100",
+        "title": "DOGS OG",
+        "nftAddress": "EQBLHKsOWa9kFL9CkCBCDjNW1sM7uhjk77wbEPkp7hr8vT3h",
+        "verified": false
+    },
+    {
+        "image": "https://placehold.co/600x337",
+        "icon": "https://placehold.co/100x100",
+        "title": "Pudgy Penguins",
+        "nftAddress": "0xabcdef1234567890",
+        "verified": true
+    },
+    {
+        "image": "https://placehold.co/600x337",
+        "icon": "https://placehold.co/100x100",
+        "title": "Monkey Stickers",
+        "nftAddress": "0xabcdefabcdefabcd",
+        "verified": false
+    }
+]
